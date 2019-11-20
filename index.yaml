@@ -3,11 +3,11 @@ entries:
   mychart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2019-11-20T07:12:12.481727519Z"
+    created: "2019-11-20T17:41:52.1957431+05:30"
     description: A Helm chart for Kubernetes
     digest: d112c33d945553d0ef8ec7b482cd7bc6d4ea48a134d29626859daf9f1e1054a8
     name: mychart
     urls:
-    - https://nikhilkhandelwal006.gitlab.io/helm-operator-get-started/public/mychart-0.1.0.tgz
+    - https://Nik006.github.io/helm-chart/mychart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-11-20T07:12:12.480891494Z"
+generated: "2019-11-20T17:41:52.0962369+05:30"
